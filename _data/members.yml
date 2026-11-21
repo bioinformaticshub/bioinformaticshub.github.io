@@ -41,6 +41,17 @@
   twitter: babasaraky
   joined: 2016-01-01
 
+- name: Etando Ayukafangha
+  github: Etando
+  institution: University of KwaZulu-Natal
+  interests: Genomics, Metagenomics / microbiome, Antimicrobial resistance (AMR), Variant analysis / WGS / WES, Statistics and data visualisation, Workflows (Nextflow / Snakemake / Galaxy), Databases and data management, Clinical bioinformatics
+  stage: Postdoctoral researcher
+  title: Research fellow
+  location: Durban South Africa
+  email: etta5013@gmail.com
+  orcid: 0000-0001-5678-4121
+  joined: 2026-11-21
+
 - name: Chinyere John-Nnah
   github: Chinyereee
   institution: University of Port Harcourt
