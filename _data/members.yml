@@ -30,6 +30,18 @@
 # above so that diffs stay readable.
 # ---------------------------------------------------------------------------
 
+- name: Grace Adeloye
+  github: GOA14
+  institution: Redeemers University
+  interests: Pathogen genomics / genomic surveillance, Genomics, Metagenomics / microbiome, Population and evolutionary genetics, Statistics and data visualisation, Open science and reproducibility
+  stage: MSc holder
+  title: Bioinformatician
+  location: Osun, Nigeria
+  email: adeloye6979@run.edu.ng
+  orcid: 0009-0006-1110-7067
+  linkedin: graceadeloye
+  joined: 2026-11-23
+
 - name: Umar Ahmad
   github: babasaraki
   institution: Institute of Genomics, Africa CDC
