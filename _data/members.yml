@@ -94,6 +94,15 @@
   joined: 2026-11-19
   about: I analyze drug safety information in the pharmacovigilance department of the pharmaceutical company where I work, i want to learn computational biology using bioinformatics
 
+- name: David Usifo
+  github: usifodavid50-afk
+  institution: University of Limpopo
+  interests: Structural bioinformatics / molecular docking, 3rd Generation sequencing (ONT) and phylogeny
+  stage: Undergraduate student
+  location: Johannesburg, South Africa
+  email: usifodavid50@gmail.com
+  joined: 2026-11-24
+
 # --- Copy the block below, fill it in, and delete the leading "# " ----------
 # - name: Your Name
 #   github: your-github-username
